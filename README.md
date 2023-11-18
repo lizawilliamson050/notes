@@ -9,3 +9,6 @@ Let's GO
 
 # 2023-11-17
 - "Programming wisdom for today: Write code that is clear and easy to understand, not just for yourself but for others who may need to read or modify it in the future. Use meaningful variable names, add comments to explain complex logic, and break down large functions into smaller, more manageable ones. Remember that code is read far more often than it is written, so invest time in making it readable and maintainable."
+
+# 2023-11-18
+- "Keep it simple, stupid!"
