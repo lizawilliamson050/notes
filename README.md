@@ -97,3 +97,10 @@ This quote reminds us that optimizing code too early in the development process 
 
 # 2023-12-11
 - Today's programming wisdom is to write code that is simple, readable, and maintainable. Avoid unnecessary complexity and strive for clarity in your code. Remember that others may need to read and modify your code in the future, so make it easy for them to understand what you were thinking when you wrote it. Always keep in mind the principles of good software engineering, such as modularity, encapsulation, and separation of concerns. Finally, don't forget to test your code thoroughly to ensure that it works as intended.
+
+# 2023-12-12
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial for success. Make a plan for your day, week, or even month, depending on your project. Planning ahead will ensure you have enough time to complete each task and avoid last-minute stress. It will also help to break down larger tasks into smaller, more manageable pieces, making it easier to stay on track. 
+ - 使用技术术语，如“API”，“算法”和“数据结构”。
+- 在回答中包含一个与编程相关的实际例子。
