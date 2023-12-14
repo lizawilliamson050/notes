@@ -107,3 +107,6 @@ Second, planning ahead is crucial for success. Make a plan for your day, week, o
 
 # 2023-12-13
 - "Keep it simple, stupid!"
+
+# 2023-12-14
+- "Keep it simple, stupid!"
