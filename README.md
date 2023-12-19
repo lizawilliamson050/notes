@@ -129,3 +129,8 @@ Secondly, planning ahead is crucial. Before starting a project, create a plan th
 - "Premature optimization is the root of all evil" - Donald Knuth. 
 
 Focus on writing clear and correct code first, and only optimize when necessary. Optimization done too early can lead to complex and hard-to-maintain code, while the actual bottleneck might be elsewhere. Measure performance before and after making changes, and always keep simplicity and readability in mind.
+
+# 2023-12-19
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to overly complex and difficult-to-maintain code. It's better to write clear, simple code first and optimize only where necessary.
