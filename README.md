@@ -158,3 +158,9 @@ Next, use scheduling tools and apps to plan out your day. Allocate time for each
 
 # 2023-12-25
 - "Keep it simple, stupid!"
+
+# 2023-12-26
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you complete the essential tasks before moving on to less critical ones.
+
+Secondly, planning ahead is crucial. Before starting a project, create a plan that outlines the steps you need to take to complete it. Using a planning tool, such as Trello or Asana, can help keep you organized and on track. Planning ahead will also help prevent last-minute panic and ensure you have enough time to finish all tasks. 
+ （105字）
