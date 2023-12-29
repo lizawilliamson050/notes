@@ -174,3 +174,10 @@ This quote, often attributed to Leonardo da Vinci, reminds us that in programmin
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
 
 First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By determining which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your work and make adjustments as needed.
+
+# 2023-12-29
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and best practices. It also means being open to new ideas and perspectives, as well as being willing to take calculated risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, computer architecture, operating systems, etc. These foundational concepts will serve as a strong basis for your career, allowing you to adapt and evolve with new technologies. Additionally, learning to code in multiple programming languages will give you the flexibility to work on various projects and with different teams. 
+ 学习新技能并不断更新知识是编程智慧的体现。这意味着要跟上最新的技术、工具和最佳实践。同时，要愿意接受新的想法和观点，以及愿意冒险尝试新事物。
+要在编程领域取得成功，深入了解基本原理（如数据结构、算法、计算机架构、操作系统等）至关重要。这些基本概念将为你的职业生涯奠定坚实的基础，让你能够适应新技术的发展。此外，学会使用多种编程语言将使你在各种项目和不同团队中具有灵活性。
