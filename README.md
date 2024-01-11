@@ -242,3 +242,10 @@ Lastly, "Program for today, design for tomorrow. Anticipate future requirements 
 
 # 2024-01-10
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. By using version control systems like Git, you can easily track and manage your code, making it easier to collaborate with others and keep your project organized and up-to-date. Always remember to write concise, well-documented code that is easy to understand and maintain. Additionally, continuous learning and staying up to date with the latest programming trends and technologies will make you a well rounded developer.
+
+# 2024-01-11
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help with this:
+
+1. Prioritize tasks: Always start with the most important tasks first. By doing this, you can ensure that you complete the tasks that are most critical to your project or assignment.
+2. Plan ahead: Don't wait until the last minute to start working on a task. Instead, start planning and organizing your thoughts ahead of time. That way, when it comes time to actually start coding, everything will be much more organized and easy to understand. 
+3. Stay organized: Use version control systems like Git to keep track of your code and make sure that everything is up-to-date. Also, organize your files and directories in a way that makes sense to you and makes it easy for you find what you need. Finally, use code editors and IDEs that support code navigation and automation, which can save you time and reduce the risk of making mistakes.
