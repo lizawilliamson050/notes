@@ -310,3 +310,8 @@ This quote emphasizes the importance of avoiding over-engineering or optimizing 
 - Today's programming wisdom: "Simplicity is the ultimate sophistication. In software development, strive to write clear, concise, and readable code that others can easily understand and maintain. Remember that code is read far more often than it is written. Always aim to reduce complexity and embrace modularity in your designs. As Alan Perlis once said, 'A language that doesn't affect the way you think about programming, is not worth knowing.'" 
 
 In essence, focus on writing clean, efficient code that solves the problem at hand without unnecessary complications. Keep learning, keep refining your skills, and always consider the bigger picture of how your code fits into the overall system or project.
+
+# 2024-01-25
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, strive to write clean, concise, and readable code that solves the problem at hand efficiently. Avoid unnecessary complexity; it often leads to bugs, maintenance nightmares, and poor scalability. Remember that you write code not only for computers but also for fellow humans who will read and maintain it." 
+
+"Also, 'Premature optimization is the root of all evil' — Donald Knuth. Focus on making your code correct first, then optimize where and when needed, based on data and profiling results. Always balance performance with understandability and maintainability."
